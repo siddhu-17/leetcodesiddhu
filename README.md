@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0283-move-zeroes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/siddhu-17/leetcodesiddhu/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/siddhu-17/leetcodesiddhu/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/siddhu-17/leetcodesiddhu/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/siddhu-17/leetcodesiddhu/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
