@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/siddhu-17/leetcodesiddhu/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
