@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
