@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0908-middle-of-the-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/siddhu-17/leetcodesiddhu/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0908-middle-of-the-linked-list) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
