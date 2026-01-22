@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0283-move-zeroes) |
+| [0994-rotting-oranges](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0994-rotting-oranges) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/siddhu-17/leetcodesiddhu/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/siddhu-17/leetcodesiddhu/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Two Pointers
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0048-rotate-image) |
+| [0994-rotting-oranges](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/siddhu-17/leetcodesiddhu/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
